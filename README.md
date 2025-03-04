@@ -1,5 +1,6 @@
 # Deep-Learning-in-Quantitative-Trading
-quick try 
+This code is for the book
+
 
 Welcome to the official companion repository for **Deep Learning in Quantitative Trading**! Here, you’ll find a collection of Jupyter notebooks, code samples, and additional resources that illustrate how to apply cutting-edge deep learning techniques to modern quantitative trading strategies. Whether you’re a data scientist, algorithmic trader, or simply curious about the intersection of AI and finance, this repository aims to help you learn, experiment, and build your own models in a practical way.
 
